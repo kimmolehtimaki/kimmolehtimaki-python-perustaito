@@ -1,0 +1,6 @@
+dollari = float(input("Anna dollarin kurssi euroina: "))
+euro = float(input("Anna rahan määrä euroina: "))
+arvo = float(input("Rahan arvo dollareina: "))
+print("*********************************")
+print("*\t Valuuttamuunnin\t*")
+print("*********************************")
