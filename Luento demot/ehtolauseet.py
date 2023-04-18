@@ -1,4 +1,4 @@
-number = 0
+number = int(input("Syötä numero: "))
 if number < 0:
     print("Numero on negatiivinen")
 
